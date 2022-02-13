@@ -1,0 +1,49 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results skipped="0" failed="0" ignored="1" total="2" passed="1">
+  <reporter-output>
+  </reporter-output>
+  <suite name="Suite" duration-ms="59138" started-at="2022-02-13T00:23:45 IST" finished-at="2022-02-13T00:24:44 IST">
+    <groups>
+    </groups>
+    <test name="Test" duration-ms="59138" started-at="2022-02-13T00:23:45 IST" finished-at="2022-02-13T00:24:44 IST">
+      <class name="com.demoblaze.DemoBlaze">
+        <test-method status="PASS" signature="OpenBrowser()[pri:0, instance:com.demoblaze.DemoBlaze@371a67ec]" name="OpenBrowser" is-config="true" duration-ms="4054" started-at="2022-02-13T00:23:41 IST" finished-at="2022-02-13T00:23:45 IST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- OpenBrowser -->
+        <test-method status="PASS" signature="maximizeBrowser()[pri:0, instance:com.demoblaze.DemoBlaze@371a67ec]" name="maximizeBrowser" is-config="true" duration-ms="174" started-at="2022-02-13T00:23:45 IST" finished-at="2022-02-13T00:23:45 IST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- maximizeBrowser -->
+        <test-method status="PASS" signature="enterUrl()[pri:0, instance:com.demoblaze.DemoBlaze@371a67ec]" name="enterUrl" is-config="true" duration-ms="2302" started-at="2022-02-13T00:23:45 IST" finished-at="2022-02-13T00:23:47 IST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- enterUrl -->
+        <test-method status="PASS" signature="getCookies()[pri:0, instance:com.demoblaze.DemoBlaze@371a67ec]" name="getCookies" is-config="true" duration-ms="1" started-at="2022-02-13T00:23:47 IST" finished-at="2022-02-13T00:23:47 IST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- getCookies -->
+        <test-method status="PASS" signature="login()[pri:2, instance:com.demoblaze.DemoBlaze@371a67ec]" name="login" duration-ms="56592" started-at="2022-02-13T00:23:47 IST" finished-at="2022-02-13T00:24:44 IST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- login -->
+        <test-method status="PASS" signature="captureScreenshot()[pri:0, instance:com.demoblaze.DemoBlaze@371a67ec]" name="captureScreenshot" is-config="true" duration-ms="0" started-at="2022-02-13T00:24:44 IST" finished-at="2022-02-13T00:24:44 IST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- captureScreenshot -->
+        <test-method status="PASS" signature="deleteCookies()[pri:0, instance:com.demoblaze.DemoBlaze@371a67ec]" name="deleteCookies" is-config="true" duration-ms="21" started-at="2022-02-13T00:24:44 IST" finished-at="2022-02-13T00:24:44 IST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- deleteCookies -->
+        <test-method status="PASS" signature="dbClose()[pri:0, instance:com.demoblaze.DemoBlaze@371a67ec]" name="dbClose" is-config="true" duration-ms="1" started-at="2022-02-13T00:24:44 IST" finished-at="2022-02-13T00:24:44 IST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- dbClose -->
+        <test-method status="PASS" signature="CloseBrowser()[pri:0, instance:com.demoblaze.DemoBlaze@371a67ec]" name="CloseBrowser" is-config="true" duration-ms="3529" started-at="2022-02-13T00:24:44 IST" finished-at="2022-02-13T00:24:48 IST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- CloseBrowser -->
+      </class> <!-- com.demoblaze.DemoBlaze -->
+    </test> <!-- Test -->
+  </suite> <!-- Suite -->
+</testng-results>
